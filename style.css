@@ -87,6 +87,10 @@ p {
     width: 100%;
 }
 
+.item-details {
+    padding: 10px;
+}
+
 h4 {
     line-height: 16px;
 }
